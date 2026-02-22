@@ -40,6 +40,8 @@ A sleek, minimalist Todo application built with **React**. This project focuses 
     npm run dev
     ```
 
+![alt text](image.png)
+
 ## 📝 Future Roadmap
 
 - [ ] Add LocalStorage support to save tasks on refresh.
